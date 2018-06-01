@@ -1,0 +1,4 @@
+ - [ ] önce forkladım
+ - [ ] sonra proje ismini değiştirdim. (arada tire olmasın, dikkat)
+ - [ ] index.html'i düzenledim
+ - [ ] ad, soyad, facebook yerine instagram, eposta, içerikler, sekmeler vs
